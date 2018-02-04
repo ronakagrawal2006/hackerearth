@@ -1,4 +1,4 @@
-from .lib import Helper
+from .sample_preprocessor import Helper
 
 
 class Execute:
